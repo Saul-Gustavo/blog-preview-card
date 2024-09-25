@@ -89,6 +89,7 @@ body {
 .attribution {
     position: absolute;
     bottom: 10px;
+    text-align: center;
 }
 
 .attribution a {
